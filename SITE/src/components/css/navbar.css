@@ -1,0 +1,90 @@
+/************************ NAVBAR *************************/
+    .myCol{
+        background-color: #F2EDD5!important;
+        font-size: 1.2rem;
+        font-weight: 500;
+    }
+
+    .myNav{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        letter-spacing: 0.1rem;
+        transition: 0.2s;
+    }
+
+    .myNav:hover{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: #F25050!important;
+        letter-spacing: 0.1rem;
+    }
+
+/************************ CARDS *************************/
+    #card{
+        width: 100vw;
+        min-height: 100vh;
+    }
+    
+    #cardC{
+        margin-top: 60px;
+        margin-right: 10px;
+        border-radius: 5px;
+    }
+        
+    #img{
+        width: 287px;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    #title{
+        color:  rgb(92, 92, 92);
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+    }
+
+    #cardBody{
+        background-color: #F2EDD5;
+    }
+
+/************************ FOOTER *************************/
+    .myFooter{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color: #F2EDD5 ;
+        margin-top: 30px;
+        padding: 9px;
+    }
+
+/************************ PAGE ERROR *************************/
+    /* .error{
+        background-image: url('../../screens/error/error.jpg');
+        background-repeat: no-repeat;
+        background-size: 100%;
+        object-fit: cover;
+        width: 100vw;
+        min-height: 100vh;
+    } */
+
+/************************ MODAL *************************/
+    .text-justify {
+        text-align: justify;
+    }
+
+
+
+
+    .myCol{
+        background-color: #F2EDD5!important;
+        font-size: 1.2rem;
+        font-weight: 500;
+    }
+
+    .myNav{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        letter-spacing: 0.1rem;
+        transition: 0.2s;
+    }
+
+    .myNav:hover{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: #F25050!important;
+        letter-spacing: 0.1rem;
+    }

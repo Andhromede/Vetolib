@@ -1,0 +1,18 @@
+[
+    {
+        "nom": "Aasimar",
+        "descriptif": "Les aasimar n’ont pas de société propre, ce sont simplement des humains un peu particuliers : ils sont dotés d’une ascendance céleste, des créatures des plans extérieurs alignées sur le bien.",
+        "capacite": "Aucune : les Aasimar n’ont pas de capacité spéciale si ce n’est leur bonus de Charisme",
+        "taille": "1,60m et 1,90m.",
+        "poids": "40kg et 80kg.",
+        "age_depart": 20,
+        "esperance_vie": 150,
+        "img": ""
+    },
+    {
+        "nom": 1,
+        "descriptif": "Azerty",
+        "capacite": "johndoe@email.com",
+        "img": ""
+    }
+]
